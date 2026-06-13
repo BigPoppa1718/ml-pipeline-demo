@@ -1,0 +1,13 @@
+code .gitignore
+
+# Data and models
+models/
+metrics/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
